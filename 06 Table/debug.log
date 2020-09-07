@@ -14,3 +14,5 @@
 [0907/161328.331:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0907/162828.734:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0907/164329.104:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/165829.308:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/170919.751:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
