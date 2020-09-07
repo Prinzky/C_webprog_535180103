@@ -18,3 +18,4 @@
 [0907/170919.751:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
 [0907/171329.339:ERROR:crash_report_database_win.cc(428)] unexpected header
 [0907/172829.385:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0907/174329.522:ERROR:crash_report_database_win.cc(428)] unexpected header
